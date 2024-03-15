@@ -1,4 +1,4 @@
-# Materials Engineering Project: Wrist Pin Selection Report
+# Materials Engineering Project: Wrist Pin Selection Presentation
 
 ## Project Overview
 
