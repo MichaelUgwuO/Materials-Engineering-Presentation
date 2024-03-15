@@ -22,7 +22,7 @@ The report serves as an academic exercise in materials selection, conducted as p
 
 ## Acknowledgments
 
-Prepared by Ugwu Michael Ogochukwu as part of a group project, this document includes references to external sources for further information on the selected material and its applications.
+Prepared by Michael Ugwu as the final project of the semester, this document includes references to external sources for further information on the selected material and its applications.
 
 ---
 
